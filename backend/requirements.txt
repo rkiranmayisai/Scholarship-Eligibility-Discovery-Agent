@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+SQLAlchemy==2.0.35
+scikit-learn==1.5.2
+numpy==1.26.4
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Optional -- improves live-page text extraction quality (falls back to
+# a built-in regex-based tag stripper if not installed)
+# beautifulsoup4==4.12.3
+
+# Optional LLM providers -- only needed if you set LLM_PROVIDER in .env
+# openai==1.51.0
+# google-generativeai==0.8.2
