@@ -2,6 +2,12 @@
 
 **PS-016 — Scholarship Eligibility Discovery Agent**
 
+## Live Website
+
+GitHub Pages deployment URL:
+https://rkiranmayisai.github.io/Scholarship-Eligibility-Discovery-Agent/
+
+
 > "Don't search for scholarships. Let AI find the ones you're eligible for."
 
 ScholarAI is a multi-agent AI system that takes a student's profile, discovers
